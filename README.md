@@ -1,5 +1,9 @@
-![snake gif](https://github.com/SamuBheckma/SamuBheckma/blob/output/github-contribution-grid-snake.gif)
+
 <h1>Olá Mundo, meu nome é Samuel Bheckma 😸</h1>
+
+![snake gif](https://github.com/SamuBheckma/SamuBheckma/blob/output/github-contribution-grid-snake.gif)
+
+
 <div>
  <a href="https://github.com/SamuBheckma">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamuBheckma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,3 +22,4 @@
 <div> 
   <a href = "mailto:samuelb.conta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
