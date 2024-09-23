@@ -1,7 +1,5 @@
 <h1>Oii, eu sou o Samuel Bheckma 😸</h1>
 
-![snake gif](https://github.com/SamuBheckma/SamuBheckma/blob/output/github-contribution-grid-snake.gif)
-
 
 <div>
  <a href="https://github.com/SamuBheckma">
