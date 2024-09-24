@@ -17,8 +17,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anahmartins/anahmartins/output/github-contribution-grid-snake.svg">
   </picture>
 
-
-
 ##
 
-
+<h5>Dê uma olhada nos projetos abaixo ⬇</h5>
