@@ -3,8 +3,8 @@
 
 ##
 
-Sou um desenvolvedor iniciante focado em back-end, estou em busca de novos aprendizados.
-Atualmente, estou aprimorando minhas habilidades no desenvolvimento back-end e utilizando Git Bash para melhorar meu fluxo de trabalho e versionamento de código.
+Sou um desenvolvedor iniciante focado em back-end, estou em busca de novos aprendizados.    
+Atualmente, estou aprimorando minhas habilidades no desenvolvimento back-end e utilizando Git Bash para melhorar meu fluxo de trabalho e versionamento de código.  
 Gosto de explorar soluções práticas e entender como as coisas funcionam "por trás dos panos".
 
 <div>
