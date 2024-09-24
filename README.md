@@ -1,10 +1,16 @@
-## Oii, eu sou o Samuel Bheckma 😸
+## Oii, eu sou o Samuel Bheckma
+<img src="https://media.discordapp.net/attachments/1260657463124824230/1288131682054176789/download20240902103434.png?ex=66f4119d&is=66f2c01d&hm=43104c66ea82e0e7160ceee950b6325aeeea9f15ac00165daed49763f540c183&=&format=webp&quality=lossless&width=475&height=475">
 
+##
+
+Sou um desenvolvedor iniciante focado em back-end, estou em busca de novos aprendizados.
+Atualmente, estou aprimorando minhas habilidades no desenvolvimento back-end e utilizando Git Bash para melhorar meu fluxo de trabalho e versionamento de código.
+Gosto de explorar soluções práticas e entender como as coisas funcionam "por trás dos panos".
 
 <div>
  <a href="https://github.com/SamuBheckma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamuBheckma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamuBheckma&layout=compact&langs_count=8&theme=dark"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamuBheckma&layout=compact&langs_count=8&theme=merko"/>
 <div>
 
 <div style="display: inline_block"><br>
