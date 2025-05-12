@@ -1,12 +1,10 @@
 ## Me chamo Samuel Bheckma
-- Sou um desenvolvedor front-end iniciando na área, estou em busca de novos aprendizados e cursando o primeiro périodo em engenharia de software.    
-- Atualmente, estou aprimorando minhas habilidades no desenvolvimento front-end e utilizando Git Bash para melhorar meu fluxo de trabalho e versionamento de código.  
-- Gosto de explorar soluções práticas e entender como as coisas funcionam "por trás dos panos".
+- Sou um desenvolvedor back-end iniciando na área, estou em busca de novos aprendizados e cursando o primeiro périodo em engenharia de software.    
+- Atualmente, estou aprimorando minhas habilidades no desenvolvimento back-end, criando projetos com javascript, como bots para discord.  
+- Esou cursando o meu primeiro periodo em engenharia de software, tenho um curso de javascript finalizado e estou fazendo mais um curso de NestJs.
 <div style="display: inline_block"> <h5>Linguagens de Programação</h5>
-  (<img align="center" alt="Samu-HTML" height="22" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samu-Js" height="19" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samu-Node" height="33" width="90" src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_NodeJS.svg">
-  <img align="center" alt="Samu-Git" height="22" width="90" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/702f2ac88acc71759ce623bc5000a596195e9db3/git.svg">)
+  (<img align="center" alt="Samu-Js" height="19" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Samu-Node" height="33" width="90" src="https://www.appnovation.com/sites/default/files/2019-06/techservicelogo_NodeJS.svg">)
 </div>
 
 ##
